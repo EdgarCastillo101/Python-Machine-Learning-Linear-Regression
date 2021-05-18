@@ -1,7 +1,4 @@
-""" Linear Regression Machine Learning example:
-###Uses data for machine age and time between failures###
-###Predict a model for the data, supervised ML ####  """
-
+#Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
 ## Import packages
 import tensorflow as tf
 import numpy
